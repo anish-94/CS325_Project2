@@ -1,4 +1,4 @@
-from math import sqrt
+from math import sqrt						# Github concreated.
 import sys
 
 def B(start, X, end, graph):
